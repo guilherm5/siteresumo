@@ -9,14 +9,14 @@
         img{
             max-width: 400px;
         }
-        textarea{
-            max-width: 310px;
+       textarea{
+            max-width: 280px;
         }
-        fieldset{
-            margin: 0 auto;
+        form,fieldset{
+            justify-content: center;
         }
-        button{
-            margin-top: 20px;
+        .botao{
+                magin-top:20px;
         }
     }
    
