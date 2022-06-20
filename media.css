@@ -4,6 +4,10 @@
             align-items: center;
             justify-content: space-evenly;
         }
+
+        a{
+            font-size: 10pt;
+        }
         section{
            flex-direction: column;
         }
@@ -14,14 +18,12 @@
         img{
             max-width: 400px;
         }
-       textarea{
+        textarea{
             max-width: 280px;
         }
         form,fieldset{
             justify-content: center;
         }
-        .botao{
-                magin:20px;
-        }
+      
     }
    
