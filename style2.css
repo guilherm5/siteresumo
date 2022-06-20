@@ -15,7 +15,7 @@ li{
 }
 ul{
     display: flex;
-    gap: 60px;
+    gap:15;
 }
 nav{
     display: flex;
